@@ -1,5 +1,9 @@
 .main-heading {
-    background-color: green;
+    background-color: black;
     color: white;
     text-align: center;
+}
+
+li {
+    font-size: 24px;
 }
