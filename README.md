@@ -1,2 +1,2 @@
 # odin-recipes
-"Recipes" from TOP, HTML-only website consisting of a homepage and multiple recipe pages. Practicing basic HTML and Git usage.
+"Recipes" from TOP, basic HTML and CSS website consisting of a homepage and multiple recipe pages. Practicing basic HTML and Git usage.
